@@ -5,6 +5,18 @@ Real-time face detection using OpenCV, Node.js, and WebSockets.
 ## Requirements
 
 * [Node.js](http://nodejs.org/)
+
+```
+sudo apt-get install curl software-properties-common
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+
+sudo apt-get install nodejs
+
+node -v
+
+npm -v 
+```
+
 * A webcam, e.g. laptop-integrated webcam, USB webcam
 
 ## Installing Node.js packages
