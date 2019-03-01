@@ -1,4 +1,4 @@
-# Face Detection with NodeJS and OpenCV
+# Face Detection with Node.JS and OpenCV
 
 Real-time face detection using OpenCV, Node.js, and WebSockets.
 
