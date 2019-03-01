@@ -35,3 +35,7 @@ npm -v
 * To run the demo locally, open a browser and go to `localhost:3000`
 
 The app should be up and running!
+
+## More about OpenCV4NodeJS
+
+[See here.](https://github.com/justadudewhohacks/opencv4nodejs)
