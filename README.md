@@ -9,6 +9,7 @@ Real-time face detection using OpenCV, Node.js, and WebSockets.
 ## Requirements
 
 * [Node.js](http://nodejs.org/)
+* [OpenCV](https://github.com/RonnyldoSilva/Install-and-Training-Tesseract-4-OCR-Opencv)
 
 ```
 sudo apt-get install curl software-properties-common
