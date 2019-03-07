@@ -42,8 +42,8 @@ The app should be up and running!
      alt="People example"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Examples_cars.png"
-     alt="People example"
+<img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_cars.png"
+     alt="Cars example"
      style="float: left; margin-right: 10px;" />
 
 ## More about OpenCV4NodeJS
