@@ -36,9 +36,13 @@ npm -v
 
 The app should be up and running!
 
-##Examples with DNN
+## Examples with DNN
 
 <img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Examples_people.png"
+     alt="People example"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Examples_cars.png"
      alt="People example"
      style="float: left; margin-right: 10px;" />
 
