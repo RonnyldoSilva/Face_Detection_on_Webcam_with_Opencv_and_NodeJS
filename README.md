@@ -36,6 +36,12 @@ npm -v
 
 The app should be up and running!
 
+##Examples with DNN
+
+<img src="Example_people.png"
+     alt="People example"
+     style="float: left; margin-right: 10px;" />
+
 ## More about OpenCV4NodeJS
 
 [See here.](https://github.com/justadudewhohacks/opencv4nodejs)
