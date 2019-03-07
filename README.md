@@ -38,17 +38,20 @@ The app should be up and running!
 
 ## Examples with DNN
 
-PEOPLE
+PEOPLE DETECTION
+
 <img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Examples_people.png"
      alt="People example"
      style="float: left; margin-right: 10px;" />
 
-CARS
+CARS DETECTION
+
 <img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_cars.png"
      alt="Cars example"
      style="float: left; margin-right: 10px;" />
  
-DISHES
+DISHES DETECTION
+
  <img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_dishes.png"
      alt="Cars example"
      style="float: left; margin-right: 10px;" />
