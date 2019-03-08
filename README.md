@@ -59,4 +59,8 @@ DISHES DETECTION
 
 ## More about OpenCV4NodeJS
 
-[See here.](https://github.com/justadudewhohacks/opencv4nodejs)
+By its nature, JavaScript lacks the performance to implement Computer Vision tasks efficiently. Therefore this package brings the performance of the native OpenCV library to your Node.js application. This project targets OpenCV 3 and provides an asynchronous as well as an synchronous API.
+
+The ultimate goal of this project is to provide a comprehensive collection of Node.js bindings to the API of OpenCV and the OpenCV-contrib modules. An overview of available bindings can be found in the API Documentation. Furthermore, contribution is highly appreciated. If you want to get involved you can have a look at the contribution guide.
+
+[OpenCV4NodeJS](https://github.com/justadudewhohacks/opencv4nodejs)
