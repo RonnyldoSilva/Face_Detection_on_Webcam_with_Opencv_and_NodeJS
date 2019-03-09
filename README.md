@@ -16,6 +16,7 @@ Real-time face detection using OpenCV, Node.js, and WebSockets.
 sudo apt-get install curl software-properties-common
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 
+
 sudo apt-get install nodejs
 
 node -v
