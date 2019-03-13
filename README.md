@@ -67,6 +67,6 @@ DISHES DETECTION
 
 Orthes examples:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=liJVSwOiiwg
-" target="_blank"><img src="http://img.youtube.com/vi/liJVSwOiiwg/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V1Z5dHkXyDs
+" target="_blank"><img src="http://img.youtube.com/vi/V1Z5dHkXyDs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
