@@ -64,3 +64,9 @@ DISHES DETECTION
 "The ultimate goal of this project is to provide a comprehensive collection of Node.js bindings to the API of OpenCV and the OpenCV-contrib modules. An overview of available bindings can be found in the API Documentation. Furthermore, contribution is highly appreciated. If you want to get involved you can have a look at the contribution guide."
 
 [OpenCV4NodeJS](https://github.com/justadudewhohacks/opencv4nodejs)
+
+Orthes examples:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
