@@ -1,5 +1,7 @@
 # Face Detection Webcam with Node.JS and OpenCV
 
+:star::star::star::star::star:
+
 Real-time face detection using OpenCV, Node.js, and WebSockets.
 
 <img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_face_detection.png"
@@ -72,4 +74,5 @@ DISHES DETECTION
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ## Please, leave a star! 
+
 :star::star::star::star::star:
