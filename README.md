@@ -1,6 +1,6 @@
 # Face Detection Webcam with Node.JS and OpenCV
 
-:star::star::star::star::star:
+If you like, leave a star :star::star::star::star::star:
 
 Real-time face detection using OpenCV, Node.js, and WebSockets.
 
