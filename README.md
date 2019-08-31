@@ -75,6 +75,6 @@ More about: [OpenCV4NodeJS](https://github.com/justadudewhohacks/opencv4nodejs)
 " target="_blank"><img src="http://img.youtube.com/vi/V1Z5dHkXyDs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
-## Please, leave a star! 
+### Please, leave a star! 
 
 :star::star::star::star::star:
