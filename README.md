@@ -35,7 +35,7 @@ npm -v
 
 ## Running the demo
 
-* Make sure you are still in the main directory
+* Make sure you are still in the main directory 
 * To run the server: `node index.js`
 * To run the demo locally, open a browser and go to `localhost:3000`
 
