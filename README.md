@@ -1,4 +1,4 @@
-# Face Detection Webcam with Node.JS and OpenCV
+# Face Detection on Webcam with Node and OpenCV
 
 (If you like, leave a star)   
   
