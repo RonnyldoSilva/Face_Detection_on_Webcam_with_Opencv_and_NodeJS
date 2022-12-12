@@ -1,4 +1,4 @@
-# Face Hunter Python Server
+# Face Hunter Python Server: Smart Surveillance System
 
 ## Requirements
 
