@@ -1,27 +1,80 @@
-# Face Hunter Python Server: Smart Surveillance System
+# Face Detection on Webcam with Node and OpenCV
 
-> **Authors:** 
-> [Ronnyldo Silva](https://www.linkedin.com/in/ronnyldo-silva-200325145/) and
-> [Eanes Pereira](https://www.linkedin.com/in/eanes-pereira-987580111/)
+(If you like, leave a star)   
+  
+:star::star::star::star::star: 
 
-## 0. Preface
+Real-time face detection using OpenCV, Node.js, and WebSockets.
 
-- This repository is based from [FaceHunter: A multi-task convolutional neural network based face detector](https://www.sciencedirect.com/science/article/abs/pii/S0923596516300467) and [http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45CKFQB](http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45CKFQB).
-
-- The purpose of this project is to show how an intelligent security system was made, capable of recognizing gender and age, as well as counting the people present in the scene.
+<img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_face_detection.png"
+     alt="Face detection example"
+     style="float: left; margin-right: 10px;" />
 
 ## Requirements
 
-1. Install Opencv: See how to install on `README_install_OpenCV.md`
-2. Install Boost: `sudo apt-get install libboost-all-dev`
-3. Install Flask: `sudo pip install Flask`
-4. Install Flask-Python: `sudo apt install python-flask`
+* [Node.js](http://nodejs.org/)
+* [OpenCV](https://github.com/RonnyldoSilva/Install-and-Training-Tesseract-4-OCR-Opencv)
 
-## How to run
+```
+sudo apt-get install curl software-properties-common
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 
-1. Run the python script from the terminal as `python server.py`
-2. Open up the browser on your system which is on the same network to see the streaming video.
-3. Go to `http://localhost:5000/`
 
-![](images/readme/readme.png)
+sudo apt-get install nodejs
 
+node -v
+npm -v 
+```
+
+* A webcam, e.g. laptop-integrated webcam, USB webcam
+
+## Installing Node.js packages
+
+* Navigate to the main directory
+* To install the packages: `npm install`. This is take a while.
+
+## Running the demo
+
+* Make sure you are still in the main directory 
+* To run the server: `node index.js`
+* To run the demo locally, open a browser and go to `localhost:3000`
+
+The app should be up and running!
+
+## Examples with DNN
+
+PEOPLE DETECTION
+
+<img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Examples_people.png"
+     alt="People example"
+     style="float: left; margin-right: 10px;" />
+
+CARS DETECTION
+
+<img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_cars.png"
+     alt="Cars example"
+     style="float: left; margin-right: 10px;" />
+ 
+DISHES DETECTION
+
+ <img src="https://github.com/RonnyldoSilva/face-detection-opencv-node-js/blob/master/Example_dishes.png"
+     alt="Cars example"
+     style="float: left; margin-right: 10px;" />
+
+## More about OpenCV4NodeJS
+
+"By its nature, JavaScript lacks the performance to implement Computer Vision tasks efficiently. Therefore this package brings the performance of the native OpenCV library to your Node.js application. This project targets OpenCV 3 and provides an asynchronous as well as an synchronous API."
+
+"The ultimate goal of this project is to provide a comprehensive collection of Node.js bindings to the API of OpenCV and the OpenCV-contrib modules. An overview of available bindings can be found in the API Documentation. Furthermore, contribution is highly appreciated. If you want to get involved you can have a look at the contribution guide."
+
+More about: [OpenCV4NodeJS](https://github.com/justadudewhohacks/opencv4nodejs)
+
+## Orthes examples:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V1Z5dHkXyDs
+" target="_blank"><img src="http://img.youtube.com/vi/V1Z5dHkXyDs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+### Please, leave a star! 
+
+:star::star::star::star::star:

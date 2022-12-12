@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1"/>
+    <title>Webcam with OpenCV and Node JS</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+  </head>
+  <body style="background-color:#161616;">
+    <h1 align="center" style="color:#ffffff;">Webcam with OpenCV and Node JS</h1>
+    <img id="image" style="display: block; margin-left: auto; margin-right: auto; border: 2px solid #ccc; width: 640px; height: 480px;">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
+    <script>
+      const socket = io.connect('http://localhost:3000');
+      socket.on('image',  (image) => {
+        const imageElm = document.getElementById('image');
+        imageElm.src = `data:image/jpeg;base64,${image}`;
+      });
+    </script>
+  </body>
+</html>
