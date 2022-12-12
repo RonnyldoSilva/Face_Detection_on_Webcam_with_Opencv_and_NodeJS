@@ -1,5 +1,9 @@
 # Face Hunter Python Server: Smart Surveillance System
 
+> **Authors:** 
+> [Ronnyldo Silva](https://www.linkedin.com/in/ronnyldo-silva-200325145/), 
+> [Eanes Pereira](https://www.linkedin.com/in/eanes-pereira-987580111/)
+
 ## Requirements
 
 1. Install Opencv: See how to install on `README_install_OpenCV.md`
