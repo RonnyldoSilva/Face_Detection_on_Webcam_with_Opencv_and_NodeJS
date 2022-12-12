@@ -1,7 +1,7 @@
 # Face Hunter Python Server: Smart Surveillance System
 
 > **Authors:** 
-> [Ronnyldo Silva](https://www.linkedin.com/in/ronnyldo-silva-200325145/), 
+> [Ronnyldo Silva](https://www.linkedin.com/in/ronnyldo-silva-200325145/) and
 > [Eanes Pereira](https://www.linkedin.com/in/eanes-pereira-987580111/)
 
 ## Requirements
